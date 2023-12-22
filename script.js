@@ -62,3 +62,4 @@ function highlightText() {
 const searchInput = document.getElementById('searchInput');
 searchInput.addEventListener('input', highlightText);
 
+
