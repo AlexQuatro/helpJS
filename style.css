@@ -1,0 +1,26 @@
+body {
+	max-width: 1200px;
+	margin: 0 auto;
+	background-color: #000000c6;
+	padding-top: 50px;
+}
+
+h2 {
+	color: yellow;
+}
+
+h3 {
+	color: green;
+}
+
+p {
+	color: #fff;
+}
+
+span {
+	color: red;
+}
+
+.highlight {
+	background-color: yellow;
+}
