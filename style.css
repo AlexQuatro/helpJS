@@ -3,6 +3,7 @@ body {
 	margin: 0 auto;
 	background-color: #000000c6;
 	padding-top: 50px;
+	position: relative;
 }
 
 h2 {
@@ -24,4 +25,10 @@ span {
 
 .highlight {
 	background-color: yellow;
+}
+
+.form {
+	position: fixed;
+	top: 30px;
+	right: 30%;
 }
