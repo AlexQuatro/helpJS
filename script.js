@@ -111,15 +111,6 @@ prevButton.addEventListener('click', preventDefaultAndPreviousResult);
 
 
 
-
-
-
-
-
-
-
-
-
 // const searchInput = document.getElementById('searchInput');
 // searchInput.addEventListener('input', highlightAndFocus);
 

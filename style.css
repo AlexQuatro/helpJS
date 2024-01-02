@@ -13,7 +13,7 @@ h3 {
 	color: green;
 }
 
-p {
+p, li {
 	color: #fff;
 	line-height: 1.2;
 }
